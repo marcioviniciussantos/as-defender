@@ -1,0 +1,4 @@
+Controlador utilizado no projeto: Ryu
+Sistema Operacional utilizado para o Controlador: Ubuntu 16.04
+Local do binário do software: /usr/local/bin/ryu
+Local dos pacotes .py de aplicações Ryu: /usr/local/lib/python2.7/dist-packages/ryu
