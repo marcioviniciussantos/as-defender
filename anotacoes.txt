@@ -2,3 +2,5 @@ Controlador utilizado no projeto: Ryu
 Sistema Operacional utilizado para o Controlador: Ubuntu 16.04
 Local do binário do software: /usr/local/bin/ryu
 Local dos pacotes .py de aplicações Ryu: /usr/local/lib/python2.7/dist-packages/ryu
+Comando para subir um Ryu como roteador BGP:  ryu-manager --bgp-app-config-file ryu/services/protocols/bgp/seu_arquivo_de_configuracao.py ryu/services/protocols/bgp/application.py    *Obs: O arquivo de configuração deve ser um arquivo Python-like(seguindo os padrões do Python)
+
